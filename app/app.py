@@ -13,9 +13,9 @@ def home():
         <title>Zero Downtime CI/CD</title>
     </head>
     <body style="font-family: Arial; text-align: center; margin-top: 80px;">
-        <h1>Zero Downtime CI/CD Pipeline</h1>
+        <h1>Zero Downtime CI/CD Pipeline - Updated Version</h1>
         <h2>Application Version: {VERSION}</h2>
-        <p>Status: Running Successfully</p>
+        <p>Status: Updated Version Running Successfully</p>
         <p>Deployed using Docker, GitHub Actions, AWS EC2 and Nginx</p>
     </body>
     </html>
